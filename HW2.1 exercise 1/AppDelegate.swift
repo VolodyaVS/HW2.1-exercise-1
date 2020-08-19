@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  HW2.1 exercise 1
 //
-//  Created by Vladimir Stepanchikov on 20.08.2020.
+//  Created by Vladimir Stepanchikov on 19.08.2020.
 //  Copyright © 2020 Vladimir Stepanchikov. All rights reserved.
 //
 
